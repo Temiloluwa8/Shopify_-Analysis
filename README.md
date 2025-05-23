@@ -14,7 +14,8 @@ This is an interactive and data-driven Power BI dashboard that provides end-to-e
 ## SHOPIFY OVERVIEW
 The goal of this project is to analyze Shopify sales data in Power BI to uncover meaningful insights into transaction performance, customer purchasing behavior, and long-term customer value. By designing an interactive dashboard, the objective is to help stakeholders identify patterns in revenue generation, customer retention, and engagement trends to support data-driven decision-making.
 ## DATA SOURCE
-
+ The dataset used in this project was provided through a publicly available link shared by Swapnjeet Sahoo in his Power BI tutorial on YouTube. It includes fictional Shopify sales data for learning and practice purposes.You can access the original video and data link here:
+🔗 Swapnjeet Sahoo’s Power BI Shopify Dashboard Tutorial
 ## IMPORTANCE OF THE PROJECT
 This project helped me build hands-on skills in Power BI, particularly in:
 + Visual storytelling using real-world sales and customer data
@@ -24,11 +25,9 @@ This project helped me build hands-on skills in Power BI, particularly in:
 + Understanding customer purchasing behavior
 + Tracking regional and product-level performance
 + Making data-driven decisions on marketing and inventory strategies
->+ This project was inspired and guided by the Power BI tutorial from Swapnjeet S on YouTube. His content was incredibly helpful in learning how to create real business dashboards using Power BI.
-
-
+> This project was inspired and guided by the Power BI tutorial from Swapnjeet S on YouTube. His content was incredibly helpful in learning how to create real business dashboards using Power BI.
 ## TOOLS 
-    ### Power BI used for
+   ### Power BI used for
       1. Connecting different tables to show useful sales and customer insights.
       2. visuals like maps and charts to make the data easy to understand.
       3. Creating smart formulas to calculate values like total sales and repeat rate.
@@ -68,9 +67,15 @@ This report is built using a Shopify sales dataset that includes detailed inform
 
 ## DATA VISUALIZATION
 
+![shopify](https://github.com/user-attachments/assets/d6abd34e-1413-423a-b1bb-60b9faf1ecf9)
 
 
 
 
 
+![shopify data set](https://github.com/user-attachments/assets/f7202277-8568-4775-89b6-c0a0151297f0)
+
+## RECOMMENDATION
+Based on the dashboard analysis, it's recommended that the business:
+> Invest more in promoting high-performing products like Running Shoes in top cities like Houston, where repeat customer rates and average order values are strong. Additionally, optimizing the checkout experience for the most-used payment methods (Shopify Payments and PayPal) could further enhance conversion rates and customer satisfaction. This recommendation is supported by data insights from product sales, customer behavior, and regional trends visualized in the Power BI dashboard.
 
