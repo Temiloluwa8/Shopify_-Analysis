@@ -1,5 +1,5 @@
 # SHOPIFY_ANALYSIS
-## Shopify Sales & Customer Funnel Report
+## SHOPIFY SALES & CUSTOMER FUNNEL REPORT
 This is an interactive and data-driven Power BI dashboard that provides end-to-end visibility into Shopify sales performance, customer behavior, and transactional insights
 ## TABLE OF CONTENT 
 + Project Overview
